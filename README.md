@@ -24,7 +24,7 @@ SnapToCook/
 ## Installation
 
 ### Prerequisites
-- Python 3.7 or higher
+- Python 3.9 or higher
 - pip (Python package manager)
 
 ### Setup
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 Run the application:
 ```bash
-python app/main.py
+python app/app.py
 ```
 
 Follow the on-screen instructions to:
