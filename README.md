@@ -63,8 +63,10 @@ Follow the on-screen instructions to:
 - **Language**: Python
 - **Core Libraries**: See `requirements.txt` for full dependency list
 
-## Authors
--Akshitha Paidi
--Ektha Charishma Bandarupally
--Abhishek Bollam
--Yeruva Kesava Vamsi Reddy
+## 👩‍💻 Authors
+
+- Akshitha Paidi  
+- Ektha Charishma Bandarupally
+- Abhishek Bollam
+- Yeruva Kesava Vamsi Reddy  
+ 
