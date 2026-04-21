@@ -63,14 +63,8 @@ Follow the on-screen instructions to:
 - **Language**: Python
 - **Core Libraries**: See `requirements.txt` for full dependency list
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Contact
-
-For questions or suggestions, please reach out to [Your Name] or open an issue in this repository.
+## Authors
+-Akshitha Paidi
+-Ektha Charishma Bandarupally
+-Abhishek Bollam
+-Yeruva Kesava Vamsi Reddy
